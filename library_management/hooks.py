@@ -2,11 +2,11 @@ from . import __version__ as app_version
 
 app_name = "library_management"
 app_title = "Library Management"
-app_publisher = "Kongoro Dickens"
-app_description = "Lib Mgt"
+app_publisher = "Dickens Kongoro"
+app_description = "Library Management System"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "dickenzkongoro@gmail.com"
+app_email = "kongorodickens@gmail.com"
 app_license = "MIT"
 
 # Includes in <head>
